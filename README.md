@@ -16,4 +16,5 @@
  - Optimizer - Adam
  - Epochs - 175
 ## Test data sample results:
+![]()
  
