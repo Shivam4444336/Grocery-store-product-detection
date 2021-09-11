@@ -1,0 +1,14 @@
+
+
+
+
+
+
+val: /content/drive/MyDrive/Final_Data/images/val
+
+# number of classes
+nc: 2
+
+# class names
+names: ['No_Product','Product']
+
