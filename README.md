@@ -17,5 +17,5 @@
  - Epochs - 175
 ## Test data sample results:
 ![](C4_P07_N3_S3_1.JPG)
-## mAp,precision and recall [results](https://github.com/Shivam4444336/Grocery-store-product-detection/blob/main/metrics.json) on test data [Grocery Dataset](https://github.com/gulvarol/grocerydataset):
+## mAp,precision and recall [results](https://github.com/Shivam4444336/Grocery-store-product-detection/blob/main/metrics.json) from test data of [Grocery Dataset](https://github.com/gulvarol/grocerydataset):
  
