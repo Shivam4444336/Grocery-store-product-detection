@@ -8,7 +8,7 @@
  - Random Scaling Augmentation
  - Mosiac Augmentation
 ## Detection Network used:
- - Yolo_v5_P6 model at resolution of 1280 was used for detection.Detection objects in this case are relatively small so higher resolution was used.
+ - Yolo_v5_P6 model at resolution of 1280 was used for detection.Detection objects in this case are relatively more so higher resolution was used.
 ## Training Hyperparameters:
  - Batch Size -  4
  - Image resolution - 1280 
